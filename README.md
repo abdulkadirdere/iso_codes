@@ -1,5 +1,5 @@
-# Lookup Tables
-Any sort of lookup tables. Feel free to use and contribute.
+# Lookup Datasets
+Any sort of lookup datasets/tables. Feel free to use and contribute.
 
 All data is collected from public websites.
 
